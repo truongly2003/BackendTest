@@ -33,7 +33,7 @@ Clone repository
 
 ```bash
 git clone https://github.com/truongly2003/BackendTest.git
-cd genx-backend-test
+cd backendtest
 ```
 
 Install dependencies
